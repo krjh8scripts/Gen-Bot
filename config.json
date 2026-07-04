@@ -1,0 +1,27 @@
+{
+    "bot_name": "Generator Bot",
+    "token": "PUT_YOUR_TOKEN_HERE",
+    "embed_color": "#5865F2",
+    "footer": "Generator Bot • All rights reserved",
+    "title": "📦 Available Stock",
+    "description": "These are the products currently available to claim:",
+    "emojis": {
+        "nitro": "🎁",
+        "nitro_basic": "✨",
+        "fortnite": "🎮",
+        "spotify": "🎧",
+        "minecraft": "⛏️"
+    },
+    "cooldown": 30,
+    "logs_channel_id": null,
+    "required_role_id": null,
+    "admin_ids": [],
+    "messages": {
+        "nitro": "Thanks for using the Generator.\n\nYour Nitro code is:\n```\n{ITEM}\n```",
+        "nitro_basic": "Thanks for using the Generator.\n\nYour Nitro Basic code is:\n```\n{ITEM}\n```",
+        "fortnite": "Fortnite account claimed:\n\n```\n{ITEM}\n```",
+        "spotify": "Spotify account claimed:\n\n```\n{ITEM}\n```",
+        "minecraft": "Minecraft account claimed:\n\n```\n{ITEM}\n```"
+    },
+    "default_message": "Here is your product:\n\n```\n{ITEM}\n```"
+}
