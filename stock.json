@@ -1,0 +1,19 @@
+{
+    "nitro": [
+        "CODE-1",
+        "CODE-2"
+    ],
+    "nitro_basic": [
+        "CODE-3"
+    ],
+    "fortnite": [
+        "email1:password1",
+        "email2:password2"
+    ],
+    "spotify": [
+        "user1:pass1"
+    ],
+    "minecraft": [
+        "email:password"
+    ]
+}
